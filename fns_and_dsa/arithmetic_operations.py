@@ -11,5 +11,5 @@ def perform_operation(num1 ,num2 , operation):
         else:
             return "error"
     else:
-        return "error: invalid operation"
+        return "invalid operation"
 
